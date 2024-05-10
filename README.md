@@ -1,4 +1,4 @@
 <div align="center">
-  <p>Project Name: TaskCraft</p>
-  <P>Live Website Link: https://taskcraft-7c1de.web.app (client side) </P>
+  <p>Project Name: Employee Management Dashboard: AmarEmployee</p>
+  <P>Live Website Link: https://amaremployee.netlify.app  </P>
 </div>
